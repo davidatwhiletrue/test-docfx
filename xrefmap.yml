@@ -1,0 +1,41 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Test.DocFx
+  name: Test.DocFx
+  href: api/Test.DocFx.html
+  commentId: N:Test.DocFx
+  fullName: Test.DocFx
+  nameWithType: Test.DocFx
+- uid: Test.DocFx.Class1
+  name: Class1
+  href: api/Test.DocFx.Class1.html
+  commentId: T:Test.DocFx.Class1
+  fullName: Test.DocFx.Class1
+  nameWithType: Class1
+- uid: Test.DocFx.Class1.#ctor(System.String)
+  name: Class1(String)
+  href: api/Test.DocFx.Class1.html#Test_DocFx_Class1__ctor_System_String_
+  commentId: M:Test.DocFx.Class1.#ctor(System.String)
+  fullName: Test.DocFx.Class1.Class1(System.String)
+  nameWithType: Class1.Class1(String)
+- uid: Test.DocFx.Class1.#ctor*
+  name: Class1
+  href: api/Test.DocFx.Class1.html#Test_DocFx_Class1__ctor_
+  commentId: Overload:Test.DocFx.Class1.#ctor
+  isSpec: "True"
+  fullName: Test.DocFx.Class1.Class1
+  nameWithType: Class1.Class1
+- uid: Test.DocFx.Class1.Prop1
+  name: Prop1
+  href: api/Test.DocFx.Class1.html#Test_DocFx_Class1_Prop1
+  commentId: P:Test.DocFx.Class1.Prop1
+  fullName: Test.DocFx.Class1.Prop1
+  nameWithType: Class1.Prop1
+- uid: Test.DocFx.Class1.Prop1*
+  name: Prop1
+  href: api/Test.DocFx.Class1.html#Test_DocFx_Class1_Prop1_
+  commentId: Overload:Test.DocFx.Class1.Prop1
+  isSpec: "True"
+  fullName: Test.DocFx.Class1.Prop1
+  nameWithType: Class1.Prop1

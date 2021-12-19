@@ -1,0 +1,242 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Articles/KeyManagement.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/KeyManagement.html",
+          "hash": "8pujF8rANS4f6F0xviriIgSdHz3Wq367v4maQNgpGJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Articles/WorkingWithCLValue.md",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/WorkingWithCLValue.html",
+          "hash": "rP+YMBbPj3hl4ZrN9uIPqo+dOoOHHK+VDagE2809aQk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Articles/toc.html",
+          "hash": "FS+OnoYuHPHM6gNpRqhXC/5/7lxVRiXLkyf+aawdulg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Tutorials/counter-contract/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/counter-contract/README.html",
+          "hash": "z0F+O/Ef2vvUH9wEA2Zt3/GRwDF4q9UGIud8WIbBD98="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Tutorials/counter.md",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/counter.html",
+          "hash": "uKmchta0Uk37XU2s6fj6nW1s0q5rqs8YkaTOKovRBa8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Tutorials/erc20-contract/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/erc20-contract/README.html",
+          "hash": "GB6wIu4NJOsRpBNOd7xhMiOPsR1gRhLhH7IVSzdNQ3I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Tutorials/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/index.html",
+          "hash": "9apLaAnK9Ont8LUSNQv5QK8RrXcjhJip3dyUrdib4IU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Tutorials/kvstorage-contract/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/kvstorage-contract/README.html",
+          "hash": "QYqwyFYyMyGlncusYHM97fVUnR1bHEPgPXAbhObAtKc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Tutorials/kvstorage.md",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/kvstorage.html",
+          "hash": "62rBRUbAZBw9cO2nJBV5KuWHT7GOvAghmgPQ5Jpb9Ks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Tutorials/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Tutorials/toc.html",
+          "hash": "layqycGj34eUmNTTJYexMYvEdzntWjX6IxxcTUtA6xE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Test.DocFx.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Test.DocFx.Class1.html",
+          "hash": "XEMGKxeXC+ot0UvAheF7RmkECQ8v34ZFnb7RsASyTT8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Test.DocFx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Test.DocFx.html",
+          "hash": "hr/mvGwdeLZ3dISX5Dcwnac2fkYeQfcCjIMWixRazPs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "nNsb8yv+txlnSEjKMaLhMLZOLF8i3NGufRen3l5XYCw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "crcl6lQZDqtGVD3Ax3TG7h2mvE7eSh9/LzwzanVT8+o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "SEi/fEewdIG9P5TVF3PONvKu2rRlO55SI4ygVXukkpg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
