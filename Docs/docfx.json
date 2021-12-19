@@ -5,7 +5,7 @@
         {
           "files": [
             "Test.DocFx/**.csproj"
-          
+          ]
         }
       ],
       "dest": "api",
