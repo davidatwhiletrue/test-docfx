@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
       name: Checkout code
-    - uses: davidatwhiletrue/docfx-action@master
+    - uses: davidatwhiletrue/docfx-action@v1.0.0
       name: Build and Publish Documentation
       with:
         args: Docs/docfx.json
